@@ -1,0 +1,17 @@
+{
+  "name": "bangun-datar",
+  "version": "1.0.0",
+  "description": "menghitung luas bangun datar",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raffi14/bangun-datar.git"
+  },
+  "keywords": ["bangun-datar"],
+  "author": "Raffi14",
+  "license": "MIT"
+}
