@@ -1,5 +1,5 @@
 {
-  "name": "bangun-datar",
+  "name": "@raffi14/bangun-datar",
   "version": "1.0.0",
   "description": "menghitung luas bangun datar",
   "type": "module",
@@ -10,6 +10,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Raffi14/bangun-datar.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   },
   "keywords": ["bangun-datar"],
   "author": "Raffi14",
