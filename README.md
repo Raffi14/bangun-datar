@@ -9,12 +9,6 @@ A JavaScript library for calculating the area and perimeter of various 2D geomet
   - Circle (Lingkaran)
   - Triangle (Segitiga)
 
-## Installation
-
-```bash
-npm install bangun-datar
-```
-
 ## Usage
 
 ```javascript
