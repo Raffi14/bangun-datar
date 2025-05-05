@@ -56,7 +56,3 @@ console.log(triangle.getPerimeter()); // 24
 ## License
 
 MIT
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
